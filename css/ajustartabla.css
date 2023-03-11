@@ -1,0 +1,19 @@
+#Layer1 {    
+    width:100%;
+  }
+
+#Layer1 table {
+   width:90%;
+   background-color:lightgray;
+  }
+
+
+#Layer2 {    
+    scrollbar-color: #09C transparent;
+    height:450px;
+    width:100%;
+
+#Layer2 table {
+   width:90%;
+   background-color:lightgray;
+  }

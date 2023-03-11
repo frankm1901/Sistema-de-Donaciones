@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_SelectRequerimientos" value="name:id_donaci;datatype:int,name:nombre_donaci;datatype:string,name:id_tipdon1;datatype:int" />
+	<infoitem key="UD_DefinicionStatus" value="name:id_defsta;datatype:int,name:nombre_defsta;datatype:string" />
+</info>

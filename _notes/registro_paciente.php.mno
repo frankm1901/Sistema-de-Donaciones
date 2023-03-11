@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_status" value="name:id_status;datatype:int,name:observaciones_status;datatype:string,name:fecha_status;datatype:int,name:id_defsta1;datatype:int" />
+	<infoitem key="UD_medicamentos" value="name:id_donaci;datatype:int,name:nombre_donaci;datatype:string,name:id_tipdon1;datatype:int" />
+	<infoitem key="UD_medico_quirurgico" value="name:id_donaci;datatype:int,name:nombre_donaci;datatype:string,name:id_tipdon1;datatype:int" />
+	<infoitem key="UD_intervenciones_quirurgicas" value="name:id_donaci;datatype:int,name:nombre_donaci;datatype:string,name:id_tipdon1;datatype:int" />
+	<infoitem key="UD_equipos_medicos" value="name:id_donaci;datatype:int,name:nombre_donaci;datatype:string,name:id_tipdon1;datatype:int" />
+	<infoitem key="UD_equipos_ortopedicos" value="name:id_donaci;datatype:int,name:nombre_donaci;datatype:string,name:id_tipdon1;datatype:int" />
+	<infoitem key="UD_examenes_medicos" value="name:id_donaci;datatype:int,name:nombre_donaci;datatype:string,name:id_tipdon1;datatype:int" />
+	<infoitem key="UD_insumos_medicos" value="name:id_donaci;datatype:int,name:nombre_donaci;datatype:string,name:id_tipdon1;datatype:int" />
+	<infoitem key="UD_requerimientos" value="name:id_donaci;datatype:int,name:nombre_donaci;datatype:string,name:id_tipdon1;datatype:int" />
+	<infoitem key="UD_IngresoRequerimientos" value="name:id_tipdon;datatype:int,name:nombre_tipdon;datatype:string" />
+	<infoitem key="UD_RedSalud" value="name:id_redsal;datatype:int,name:nombre_redsal;datatype:string,name:id_municipio2;datatype:int,name:id_tiporedsal;datatype:int" />
+</info>
